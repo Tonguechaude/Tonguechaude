@@ -1,4 +1,4 @@
-- 👋 Salut, moi c'est @Tonguechaude
+- 👋 Salut, moi c'est Tonguechaude
 
 <!---
 Tonguechaude/Tonguechaude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
