@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
 | Lang | Repository | Description |
 | --- | --- | --- |
 | Rust | [Google Rust course](https://github.com/Tonguechaude/feuille_de_route_Rust.git) | Rust course |
+| Rust | [Rustlings course](https://github.com/Tonguechaude/Roadmap-Rust.git) | Rust course |
+
 
 </details>
 
