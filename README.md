@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 | --- | --- | --- | --- |
 | Java | Game | [Jeu de la Vie](https://github.com/Tonguechaude/GOL.java.git) | Simple implementation of Conway Game of life with Swing |
 | Rust | Game | [Jeu de la Vie](https://github.com/Tonguechaude/GOL.rs.git) | Simple implementation of Conway Game of life with Bevy |
-| Rust | Math / Game | [Cube.rs](https://github.com/Tonguechaude/cube.rs.git) | Coding/Math challenge in C |
+| Rust | Math / Game | [Cube.rs](https://github.com/Tonguechaude/cube.rs.git) | Coding/Math challenge in Rust |
 | Puppet | Server | [Module puppet raspberry](https://github.com/Tonguechaude/puppet-raspberry.git) | Simple raspberry puppet module  |
 | Java | Game | [2048](https://github.com/Tonguechaude/2048.git) | 2048 game with GUI |
 | C | Game | [Cube.c](https://github.com/Tonguechaude/Cube.git) | Coding/Math challenge in C | 
