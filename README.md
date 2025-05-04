@@ -33,8 +33,7 @@ You can click the Preview link to take a look at your changes.
 | Rust | [Google Rust course](https://github.com/Tonguechaude/feuille_de_route_Rust.git) | Rust course |
 | Rust | [Rustlings course](https://github.com/Tonguechaude/Roadmap-Rust.git) | Rust course |
 | Rust | [Macrokata course](https://github.com/Tonguechaude/macrokata-course.git) | Rust macro course |
-| Vue / TS / Tailwind | Web | [tonguechaude.fr](https://github.com/Tonguechaude/Portfolio-vue) | My portfolio in Vue TS <https://tonguechaude.fr> (i really dont like JS so i switch to Rust) |
-
+| Vue / TS / Tailwind | [tonguechaude.fr](https://github.com/Tonguechaude/Portfolio-vue) | My portfolio (Vue TS) <https://tonguechaude.fr>(i really dont like Vue so i switch to Rust) |
 </details>
 
 <details>
