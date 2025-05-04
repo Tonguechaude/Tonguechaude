@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 | Language | Category | Repository | Description |
 | --- | --- | --- | --- |
 | Rust / Leptos / WASM | Web | [tonguechaude.fr](https://github.com/Tonguechaude/Portfolio-rust) | My portfolio in Rust <https://tonguechaude.fr> |
-| Rust / Ratatui | [Aquatui](https://github.com/Tonguechaude/Aquatui) | My great aquarium with tui |
+| Rust / Ratatui | Tool | [Aquatui](https://github.com/Tonguechaude/Aquatui) | My great aquarium with tui |
 | Java | Game | [Jeu de la Vie](https://github.com/Tonguechaude/GOL.java.git) | Simple implementation of Conway Game of life with Swing |
 | Rust | Game | [Jeu de la Vie](https://github.com/Tonguechaude/GOL.rs.git) | Simple implementation of Conway Game of life with Bevy |
 | Embeded Rust | Microbit | [Microbit with Rust](https://github.com/Tonguechaude/Rust-Microbit-V2.git) | Rust-Embed dicovery with Microbit |
