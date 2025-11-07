@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning **Bevy Game Engine**
 
-- 📫 How to reach me **evan.challias@tonguechaude.fr**
+- 📫 Reach me at **evan.challias@tonguechaude.fr**
 
 <h3 align="left">Languages and Tools:</h3>
 
