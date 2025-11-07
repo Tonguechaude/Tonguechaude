@@ -1,25 +1,19 @@
-<!---
-Tonguechaude/Tonguechaude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonguechaude&style=pixel" alt="tonguechaude" /> </p>
 
-### Some cool projects
+- 👷 I’m currently working on [FerrumC](https://github.com/ferrumc-rs/ferrumc)
 
-| Language | Category | Repository | Description |
-| --- | --- | --- | --- |
-| Rust / Leptos / WASM | Web | [tonguechaude.fr](https://github.com/Tonguechaude/Portfolio-rust) | My portfolio in Rust <https://tonguechaude.fr> |
-| Rust / Ratatui | Tool | [Aquatui](https://github.com/Tonguechaude/Aquatui) | My great aquarium with tui |
-| Rust | Game | [Jeu de la Vie](https://github.com/Tonguechaude/GOL.rs.git) | Simple implementation of Conway Game of life with Bevy |
-| Embeded Rust | Microbit | [Microbit with Rust](https://github.com/Tonguechaude/Rust-Microbit-V2.git) | Rust-Embed dicovery with Microbit |
-| Rust | Math / Game | [Cube.rs](https://github.com/Tonguechaude/cube.rs.git) | Coding/Math challenge in Rust |
-| C | Game | [Cube.c](https://github.com/Tonguechaude/Cube.git) | Coding/Math challenge in C | 
-| C / Docker | Tool | [Convertisseur](https://github.com/Tonguechaude/Convertisseur.git) | Tool for converting numbers to other bases |
-| Rust / Docker | Tool | [Convertisseur](https://github.com/Tonguechaude/Convertisseur-Rust.git) | Same tool for converting numbers to other bases but it's in Rust so it's cool |
-| vimscript / lua | Dotfiles | [my doftiles](https://github.com/Tonguechaude/dotfiles.git) | My dotfiles for neovim, kitty etc ... |
+- 📚 I’m currently learning **Bevy Game Engine**
 
-### Top Languages
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonguechaude&hide_title=true)
+- 📫 How to reach me **evan.challias@tonguechaude.fr**
 
-### Github stats
+<h3 align="left">Languages and Tools:</h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=tonguechaude&show_icons=true&locale=fr)
+</br>
+
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+</br>
+</br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonguechaude&show_icons=true&locale=fr" alt="Github stats" /></p>
+
