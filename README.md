@@ -1,13 +1,12 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonguechaude&style=pixel" alt="tonguechaude" /> </p>
+👷 Currently working on [Temper](https://github.com/temper-mc/temper)
 
-- 👷 I’m currently working on [Temper](https://github.com/temper-mc/temper)
+📚 Currently learning **Bevy Game Engine**
 
-- 📚 I’m currently learning **Bevy Game Engine**
+📫 Reach me at  : **[evan.challias[AT]tonguechaude.fr](mailto:evan.challias@tonguechaude.fr)**
 
-- 📫 Reach me at **evan.challias@tonguechaude.fr**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-
-</br>
-
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.puppet.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="Puppet" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/fr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="Ruby" width="40" height="40"/> </a> <a href="https://www.java.com/fr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,c,bash,ruby,java,html,linux,git,mongodb,sqlite&theme=light" />
+  <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" width="45" height="45" />
+</p>
